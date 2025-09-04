@@ -104,8 +104,6 @@ Don't forget to give the project a star! Thanks again!
 
 </br>
 
-## Contact
-This application was created on the course ["Android Theory - for Juniors"](https://stepik.org/a/138114)
 
 
 
