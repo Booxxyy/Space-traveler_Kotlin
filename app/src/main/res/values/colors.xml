@@ -8,12 +8,14 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="PrimaryColor">#FFBD13</color>
-    <color name="OnPrimaryColor">#000021</color>
-    <color name="SecondaryColor">#56CB03</color>
-    <color name="OnSecondaryColor">#FFFFFF</color>
+    <color name="PrimaryColor">#5694F0</color>
+    <color name="OnPrimaryColor">#5694F0</color>
+    <color name="SecondaryColor">#FFBD13</color>
+    <color name="OnSecondaryColor">#948359</color>
     <color name="SurfaceColor">#FFFFFF</color>
     <color name="OnSurfaceColor">#A4A8B3</color>
-    <color name="BackgroundColor">#EFFAFD</color>
+    <color name="BackgroundColor">#E6EFFD</color>
     <color name="OnBackgroundColor">#071738</color>
+    <color name="YellowStar">#FFD700</color>
+    <color name="GreyStar">#A4A8B3</color>
 </resources>
